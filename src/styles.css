@@ -1,0 +1,8 @@
+body {
+  font-family: sans-serif;
+}
+.red {
+  background-color: #eee;
+  color: red;
+  text-decoration: line-through;
+}
